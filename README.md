@@ -7,7 +7,7 @@ This repository will collate the many classical machine learning techniques that
 The machine learning notebooks will be group as follows:
  - 1_regression
  - 2_clustering
- - 3_maximum_margin
+ - 3_margin_classifier
  - 4_decision_trees
  - 5_time_series
  - 6_ensembling
