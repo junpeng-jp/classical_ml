@@ -4,10 +4,37 @@ This repository will collate the many classical machine learning techniques that
 
 # Repository Structure
 
-The machine learning notebooks will be group as follows:
- - 1_regression
- - 2_clustering
- - 3_margin_classifier
- - 4_decision_trees
- - 5_time_series
- - 6_ensembling
+## 1_regression
+ - Linear Regression
+ - Logistic Regression
+ - Lasso Regression (TBC)
+ - ElasticNet (TBC)
+
+## 2_clustering
+ - Centroid-based
+    - K-Means
+ - Density-based
+    - K-nearest neighbours
+    - DBSCAN (TBC)
+    - OPTICS (TBC)
+ - Hierarchical
+    - Agglomerative (TBC)
+    - Divisive (TBC)
+
+## 3_margin_classifier
+ - Perceptron
+ - Support Vector Machines (SVM)
+ - Kernel SVM (TBC)
+
+## 4_decision_trees
+ - Generic Decision Trees
+
+## 5_time_series
+ - Exponential Smoothing (TBC)
+ - Holt-Winters (TBC)
+ - ARIMA (TBC)
+ 
+## 6_ensembling
+ - Bagging
+ - Boosting
+ - Voting
