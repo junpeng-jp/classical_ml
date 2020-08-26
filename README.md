@@ -35,6 +35,6 @@ This repository will collate the many classical machine learning techniques that
  - ARIMA (TBC)
  
 ## 6_ensembling
- - Bagging
- - Boosting
- - Voting
+ - Bagging (TBC)
+ - Boosting (TBC)
+ - Voting (TBC)
